@@ -1,17 +1,95 @@
-# fashion_store
+# 👕 Runway - Fashion Store App
 
-A new Flutter project.
+A modern Flutter fashion e-commerce application inspired by a professional Figma design. The app provides a clean shopping experience with product browsing, favorites, cart management, and a responsive user interface.
 
-## Getting Started
+## 📱 Screens
 
-This project is a starting point for a Flutter application.
+- Splash Screen
+- Home Screen
+- Categories
+- Product Details
+- Favorites
+- Shopping Cart
+- Profile
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Modern and responsive UI
+- Beautiful Splash Screen
+- Product Categories
+- Product Details
+- Add to Cart
+- Favorite Products
+- Bottom Navigation
+- Custom AppBar
+- SVG Assets
+- Smooth Navigation
+- Responsive Layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material Design
+- flutter_svg
+
+## 📂 Project Structure
+
+```
+lib/
+│
+├── screens/
+├── widgets/
+├── models/
+├── services/
+├── assets/
+└── main.dart
+```
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/YourUsername/Runway.git
+```
+
+Go to project
+
+```bash
+cd Runway
+```
+
+Install packages
+
+```bash
+flutter pub get
+```
+
+Run the project
+
+```bash
+flutter run
+```
+
+## 🎨 UI Design
+
+Designed based on the following Figma design:
+
+**Figma Design:**  
+(ضع هنا رابط Figma)
+
+## 📸 Screenshots
+
+> Add application screenshots here.
+
+## 👨‍💻 Developer
+
+**Anas Hussein Sofy**
+
+- GitHub: https://github.com/ANASSOFY
+- LinkedIn: https://www.linkedin.com/in/anas-sofy-5339802a5/
+
+## ⭐ Support
+
+If you like this project, don't forget to leave a ⭐ on the repository.
